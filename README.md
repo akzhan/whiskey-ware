@@ -32,10 +32,10 @@ $ cd your/project/path
 $ curl -L https://raw.githubusercontent.com/akzhan/whiskey-ware/master/LICENSE.🥃.md > LICENSE.🥃.md
 ```
 
-Optionally, you can add this badge to your `README.md`: [![WHISKEY-WARE LICENSE](https://img.shields.io/badge/license-WHISKEY--WARE🥃-452f20.svg)](https://github.com/akzhan/whiskey-ware)
+Optionally, you can add this badge to your `README.md`: [![License: Whiskey](https://img.shields.io/badge/license-WHISKEY--WARE🥃-452f20.svg)](https://github.com/akzhan/whiskey-ware)
 
 ```markdown
-[![WHISKEY-WARE LICENSE]https://img.shields.io/badge/license-WHISKEY--WARE🥃-452f20.svg)](https://github.com/akzhan/whiskey-ware)
+[![License: Whiskey](https://img.shields.io/badge/license-WHISKEY--WARE🥃-452f20.svg)](https://github.com/akzhan/whiskey-ware)
 ```
 
 ### Notice!
